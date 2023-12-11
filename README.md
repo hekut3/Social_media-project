@@ -19,7 +19,7 @@
 
 2. Установка зависимостей
    
-   Установим зависимости: pip install -r requirements.txt
+   Установим зависимости: `pip install -r requirements.txt`
 
 4. Запуск сервера
 
